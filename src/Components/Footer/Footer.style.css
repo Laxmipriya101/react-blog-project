@@ -1,10 +1,10 @@
 .TheMainFooter {
   display: flex;
-  /* background-color: #333333; */
+
   background-color: rgb(2, 20, 20);
   color: #ffffff;
   justify-content: center;
-  /* height: 10rem; */
+
   min-height: 10rem;
 }
 
@@ -24,7 +24,7 @@
 .FGridCont {
   display: grid;
   grid-template-columns: auto auto auto;
-  /* justify-content: space-between; */
+
   height: 100%;
 }
 
@@ -51,19 +51,11 @@
 }
 
 .FmiddleCon {
-  /* height: 4rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around; */
   display: flex;
   flex-direction: column;
 }
 
 .FmiddleSubCon {
-  /* height: 3rem;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between; */
   height: 4rem;
   display: flex;
   flex-direction: column;
@@ -86,7 +78,6 @@ pre {
 
 @media (min-width: 600px) and (max-width: 1000px) {
   .TheMainFooter {
-    /* font-size: 12px; */
     font-size: 14px;
   }
   .Fcontact {
@@ -101,10 +92,6 @@ pre {
   .theFWidth {
     width: 95%;
   }
-
-  /* .FmiddleSubCon{
-        height: auto;
-} */
 }
 
 @media (max-width: 600px) {

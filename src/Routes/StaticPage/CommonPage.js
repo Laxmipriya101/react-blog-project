@@ -1,8 +1,9 @@
 import React from "react";
-import { Logo } from "../../Components";
+import { Footer, Logo } from "../../Components";
 import "./CommonPage.style.css";
 import { DateExt, GetStarted } from "../../Components";
 import { Link, useLocation } from "react-router-dom";
+import Latest from "../Home/Latest";
 
 const CommonPage = () => {
   const location = useLocation();
@@ -59,6 +60,8 @@ const CommonPage = () => {
           <div></div>
         </div>
       </div>
+      <Latest />
+      <Footer />
     </div>
   );
 };

@@ -3,7 +3,6 @@
 }
 
 .editLogo {
-  /* float: left; */
   padding-left: 10%;
   display: flex;
 }
@@ -12,14 +11,9 @@
   background: #ffffff 0% 0% no-repeat padding-box;
   box-shadow: 1px 2px 1px 2px #43353529;
   border: 2px solid #f0f0f0;
-  /* margin-top: 10px; */
+
   width: 80%;
 }
-
-/* .flexProperty{
-    display: flex;
-    justify-content: center;
-} */
 
 .commonContainer {
   width: 40%;
@@ -56,14 +50,14 @@
 
 .MainImage {
   height: 300px;
-  /* width: 100%; */
+
   min-width: 50%;
   max-width: 80%;
 }
 
 .theComHeading {
   text-align: center;
-  /* padding: 10px 0px; */
+
   padding-bottom: 2rem;
   padding-top: 1rem;
   width: 90%;
@@ -73,7 +67,7 @@
   padding-top: 2rem;
   padding-bottom: 2rem;
   display: flex;
-  /* width: 80%; */
+
   justify-content: center;
 }
 

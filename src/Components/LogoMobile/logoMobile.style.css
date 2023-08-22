@@ -8,8 +8,6 @@
 .moLogoPar {
   display: flex;
   justify-content: center;
-  /* border-bottom: 2px solid #c4c4c4; */
-  /* box-shadow: 0px 3px 6px #0000001A; */
 }
 
 .TheLogoCon {
@@ -25,7 +23,7 @@
   display: flex;
   height: 4rem;
   align-items: center;
-  /* border-bottom: 2px solid grey; */
+
   justify-content: space-between;
 }
 
@@ -51,7 +49,7 @@
   border-bottom: 0.5px solid #abaaaa82;
   width: 70%;
   text-align: center;
-  /* background-color: azure; */
+
   padding: 5px;
   font-size: 1rem;
   font-weight: bold;
