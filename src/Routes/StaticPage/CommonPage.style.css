@@ -93,3 +93,23 @@
   right: 2rem;
   top: 2rem;
 }
+
+.backbtn {
+  width: 120px;
+  height: 30px;
+  background-color: rgb(18, 128, 128);
+  font-size: 20px;
+  align-items: center;
+}
+
+.clap {
+  display: flex;
+}
+
+.share {
+  display: flex;
+}
+
+.rate {
+  margin-top: 20px;
+}

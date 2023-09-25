@@ -114,6 +114,21 @@ function Store(props) {
       description:
         "This is certainly a triumph for the visual and audio effects folks. Otherwise, I found it all a bit derivative and frankly a rather classless rehash of the much more entertaining original. It's tough to just keep on re-inventing these themes - they do tire, and as I reckon with the recent updates of the Halloween franchise, they maybe just rely too heavily on a current generation who were not around to see the originals in the cinema first time round, and who maybe just don't appreciate that the acting and the writing - though never exactly crucial to these plots - did have more of a role than just relying on well made-up (virtual) demons spinning around the ceiling emitting threatening shrieks. It's not terrible - it moves along quickly for ninety minutes and might just put you off a bath anytime shortly afterwards, but there just isn't any real sense of menace or jeopardy and to be honest I wasn't entirely sure that the family weren't nightmarish enough - before their visitor arrived. ",
     },
+
+    {
+      id: 12,
+      ide: 12,
+      cat: "Hollywood",
+      for: "TopList",
+      date: " 04/21/2023",
+      img: "https://upload.wikimedia.org/wikipedia/en/e/ed/The_Flash_%28film%29_poster.jpg",
+      title: "The Flash",
+      Overview:
+        "Development of a film based on the Flash began in the late 1980s, with multiple writers and directors attached to the project through 2014. ",
+      description:
+        "The Flash is a 2023 American superhero film based on the DC Comics character of the same name. Produced by Warner Bros. Pictures, DC Studios, Double Dream, and the Disco Factory, and distributed by Warner Bros. Pictures, it is the 13th installment in the DC Extended Universe (DCEU). The film was directed by Andy Muschietti from a screenplay by Christina Hodson, based on a story by Joby Harold and the writing team of John Francis Daley and Jonathan Goldstein. It stars Ezra Miller as Barry Allen / The Flash alongside Sasha Calle, Michael Shannon, Ron Livingston, Maribel Verdú, Kiersey Clemons, Antje Traue, and Michael Keaton. In the film, Barry travels back in time to prevent his mother's death, which brings unintended consequences.",
+    },
+
     {
       id: 9,
       ide: 9,
@@ -153,6 +168,7 @@ function Store(props) {
       description:
         "Ironically, these tale about a mother and daughter, fails because the male characters have no depth. The villain is evil sure, but also extremely stupid and escaping from her first attempt to kill him in a very unbelievable and unexplained way.\n\nThe romantic tension between Cruise and the mother also doesn't work and the age old friendship with Jons is also not given any backstory. I'm enclined to blame the casting here. Well, the story was lacking and oddly edited as well, but it may be because there wasn't much to work with. Either way, it's clear this is supposed to be about a mother/daughter relationship, but also be an action move and the director / writers / actors couldn't make it work. 3/10, 2 points cause I've seen worse, not because I can find something positive in it. ",
     },
+
     {
       id: 12,
       ide: 1,
@@ -612,12 +628,13 @@ function Store(props) {
       for: "ArticleList",
       date: "BY SCOTT STEIN ",
       // img2: "https://www.cnet.com/a/img/resize/0b173307ae96ad67c12d5be249756ea2410a294c/hub/2023/05/11/becf5d26-cac0-4b93-9e45-3aeae8e93eb2/indy.jpg?auto=webp&fit=crop&height=228&width=416",
-      img: "https://static.toiimg.com/photo/99780744.cms",
-      title: "CITADEL",
+      // img: "https://static.toiimg.com/photo/99780744.cms",
+      img: "https://www.worldatlas.com/r/w960-q80/upload/01/33/22/digital-revolution.jpg",
+      title: "Digital Revolution",
       Overview:
-        "Citadel is a 2012 Irish psychological horror film written and directed by Ciarán Foy, in his feature film debut. It was filmed in Glasgow, Scotland. The film stars Aneurin Barnard as Tommy, a widower who must raise his baby alone after an attack by a gang leaves his wife dead and him suffering from agoraphobia.",
+        "The Digital Revolution began between the late 1950’s and 1970’s. It is the development of technology from mechanical and analog to digital. During this time, digital computers and digital record keeping became the norm. The introduction of digital technology also changed the way humans communicate, now via computers, cell phones, and the internet. This revolution led way to the Information Age.",
       description:
-        "Something about Citadel seems both right and wrong at the same time. In the hands of the Marvel-fame Russo brothers, a spy franchise would ideally be chock full of extravagant visuals but for some reason, it comes across as any other spy feature. Perhaps it's the superhero fatigue seeping into this franchise.To be fair, only two episodes were available for the review and I must admit that the actors did enough to make me want to tune in to the third one and in the oversaturated OTT space, I'd say that's a win.Citadel gets (or gives it) name from a super stealthy organisation that's perfect fodder for your inner conspiracy theorist. Neither MI6 or CBI, Citadel comprises of good-hearted, extremely well-trained Samaritans who have influenced almost every major event for good in the past few decades.",
+        " The 1947 invention of the revolutionary transistor is credited with sowing the seed for digital technology to come. By the 1950’s and 1960’s, many governments, military forces, and other organizations were already using computers. Soon after, the computer was introduced for household use and by the 1970’s, many families had computers for personal use. This occurred at around the same time that video games became popular, both for home systems and arcade use. The infiltration of digital technology even led to the creation of jobs. As businesses moved to digital records keeping, the need for data entry clerks grew. The 1980’s brought computer production to films, robots to industry, and automated teller machines (ATMs) to banks. By 1989, 15% of all households in the US owned a computer. Analog mobile phones made way to digital mobile phones in 1991 and the demand soared. This was the same year that the internet was made available to the public. By the end of the decade, the internet was so popular that many businesses had a website and nearly every country on earth had a connection. When the 21st century began, cell phones were a common possession and high-definition television became the most common broadcasting method, replacing analog television. By 2015, around 50% of the world had constant internet connection, and ownership rates of smartphones and commonness of tablet possession have nearly surpassed those of home computers. The ability to store information has grown exponentially with terabyte storage now being very accessible.",
     },
     {
       id: 46,
@@ -661,7 +678,7 @@ function Store(props) {
         "The Pixel 8 didn't make an appearance at Google's I/O conference, but the company did launch the Pixel 7A -- its budget-minded alternative to the Pixel 7. That's a win for Pixel fans, since the 7A offers many of the same benefits as the Pixel 7 -- including a great camera and the new Tensor G2 processor -- for $100 less. \n\n  But it also makes me wonder whether Google's A-series phones are beginning to overshadow its flagship Pixels. \n\n   Now that Google has narrowed the gap between the Pixel 7 and 7A, it should think more carefully about its target audience for the Pixel 8. If the Pixel 7A is for those who want a basic Pixel experience without compromising on performance and camera quality, and the Pixel 7 Pro is for photography enthusiasts, then who's the Pixel 7 for? That's the question I'm hoping Google answers with the Pixel 8, along with some other routine improvements to software support and battery life.  \n\n  Google typically releases new Pixel phones in the fall, so we're expecting to learn more about the Pixel 8 in a few months. ",
     },
     {
-      id: 49,
+      id: 54,
       ide: 5,
       cat: "Technology",
       for: "ArticleList",
@@ -727,6 +744,7 @@ function Store(props) {
       description:
         " The heads of the G-7 countries -- Canada, France, Germany, Italy, Japan, the UK and the US (plus the EU) -- called for a G-7 working group to establish by the end of the year the Hiroshima AI process, for carrying out talks about how best to deal with chatbots, image generators and other AI technologies. The talks would center on developing an international framework 'to achieve the common vision and goal of trustworthy AI,' the bulletin says.\n\n 'These discussions could include topics such as governance, safeguard of intellectual property rights including copy rights, promotion of transparency, response to foreign information manipulation, including disinformation, and responsible utilization of these technologies,' the bulletin says.\n\n Though it's unclear what exactly might come of the talks, the G-7's focus on AI is another sign that people in high places are aware of the worries around the technology and are cautious about letting its development continue unfettered. The G-7's bulletin follows other recent moves by government to examine and address AI and its potential perils.",
     },
+
     {
       id: 54,
       ide: 10,
